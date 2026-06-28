@@ -1,0 +1,6 @@
+{
+  "name": "Partage de Tâches et Charge Mentale",
+  "description": "Une application d'organisation domestique pour équilibrer la charge mentale au sein du foyer, avec partage des tâches en temps réel, système de points, récompenses et assistant IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
